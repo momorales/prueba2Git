@@ -14,3 +14,5 @@ _letra italica_
 
 **letra en negrita**
 __letra en negrita__
+
+~~tachado~~
