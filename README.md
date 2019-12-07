@@ -26,3 +26,10 @@ __letra en negrita__
 [esto es un link](https://www.google.es/)
 
 ![esto es una imagen](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+```javascript
+    function saludo(){
+        console.log('Buenos días');
+    }
+ ```
+ 
