@@ -16,3 +16,9 @@ _letra italica_
 __letra en negrita__
 
 ~~tachado~~
+
+1. lista ordenada
+1. lista ordenada
+1. lista ordenada
+
+- lista desordenada
